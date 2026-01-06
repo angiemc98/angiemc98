@@ -1,65 +1,43 @@
-# Hi, I'm Angie Molina 👋
+# Hi, I'm Angie Molina 👋✨  
+🧬 Biomedical Engineer | 💻 Software Developer | 🚀 Tech Explorer
 
-Biomedical Engineer and Software Developer focused on building technology-driven solutions for real-world problems.
+I turn ideas into software 💡  
+Building technology-driven solutions for real-world problems 🌍
 
----
+- 🧠 Learning by building, breaking, and improving  
+- 🛠 Creating software from scratch  
+- 🔍 Solving real-world problems through technology  
+- 📈 Turning complexity into simple solutions
+-------------------------------------------------
+- ⚙️ Full-stack development  
+- 🏗 Clean architecture & scalable code  
+- 🔗 APIs, data handling, and system logic  
+- 🤖 Emerging technologies & AI concepts  
 
-## About me
+### 🛠️ Tech Stack ⚡
 
-I am a Biomedical Engineer with a strong interest in software development and technology in general. I enjoy designing and building applications that solve practical problems, combining engineering thinking with clean, maintainable code.
+**Languages**  
+🟦 TypeScript · 🟨 JavaScript · 🐍 Python · 🟪 PHP · 🟧 HTML · 🎨 CSS  
 
-I am continuously learning and improving my skills through hands-on projects, collaboration, and exploration of new technologies.
+**Frameworks & Libraries**  
+⚡ Laravel · ⚛️ React · ⏭️ Next.js · 🪺 NestJS  
 
----
+**Backend & Databases**  
+🐘 PHP · 🐬 MySQL · 🔗 REST APIs  
 
-## What I’m working on
+**Tools & Practices**  
+🌱 Git & GitHub · 🧩 Bootstrap · 🏗️ Clean Architecture
 
-* Developing web applications and personal projects to strengthen my software engineering skills
-* Exploring full-stack development and modern frameworks
-* Applying engineering problem-solving to technology-driven solutions
+------------------------------------------------
 
----
+- 💡 Web applications  
+- 🧪 Frontend & backend experiments  
+- 🎓 Academic & personal projects  
 
-## Currently learning
+Each repository tells a story: problem → approach → solution ✨
 
-* Software architecture and best practices
-* Backend and frontend frameworks
-* Data handling and application logic
+📧 Email: angiecabal35@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/angie-molina-dev
 
----
-
-## 🛠 Tech stack
-
-**Languages:**
-🟦 TypeScript · 🟨 JavaScript · 🐍 Python · 🟧 HTML · 🎨 CSS · 🟦 PHP · ☕ Java · 🟣 C#
-
-**Frameworks & Technologies:**
-⚡ Laravel · ⚛️ React · ⏭ Next.js · 🪺 NestJS · 🅰️ Angular · 🐬 MySQL
-
-**Tools & Practices:**
-🌱 Git & GitHub · 🔗 REST APIs · 🏗 Clean Architecture · 🧩 Bootstrap
-
----
-
-## Featured projects
-
-Here you will find projects related to:
-
-* Web application development
-* Frontend and backend practice
-* Academic and personal software projects
-
-Each repository includes documentation describing the problem, approach, and technologies used.
-
----
-
-## How to reach me
-
-* Email: [angiecabal35@gmail.com](mailto:angiecabal35@gmail.com)
-* LinkedIn: (add your LinkedIn URL here)
-
----
-
-Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
 
 
