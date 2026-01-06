@@ -1,8 +1,10 @@
-# Hi, I'm Angie Molina 👋✨  
-🧬 Biomedical Engineer | 💻 Software Developer | 🚀 Tech Explorer
+<h1 align="center">Hi, I'm Angie Molina 👋✨</h1>
 
-I turn ideas into software 💡  
-Building technology-driven solutions for real-world problems 🌍
+<p align="center">
+🧬 Biomedical Engineer | 💻 Software Developer | 🚀 Tech Explorer
+</p>
+
+I turn ideas into software 💡💡 Turning ideas into software by building technology-driven solutions for real-world problems 🌍
 
 - 🧠 Learning by building, breaking, and improving  
 - 🛠 Creating software from scratch  
@@ -14,6 +16,7 @@ Building technology-driven solutions for real-world problems 🌍
 - 🔗 APIs, data handling, and system logic  
 - 🤖 Emerging technologies & AI concepts  
 
+-------------------------------------------------
 ### 🛠️ Tech Stack ⚡
 
 **Languages**  
